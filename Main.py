@@ -1,5 +1,5 @@
-from weekly.Week import Weeks
-from monthly.Monthly import Months
+from Weekly.Week import Weeks
+from Monthly.Monthly import Months
 
 class Main:
     
